@@ -30,6 +30,7 @@ Usage
 bash
 Copy
 streamlit run app.py
+## Usage
 Step 1: Upload Presentation
 ![Upload Interface](assets/upload-interface.png)
 Supported formats: .ppt, .pptx
