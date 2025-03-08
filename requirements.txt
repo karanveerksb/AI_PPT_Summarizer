@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit>=1.43.1
+python-pptx>=1.0.2
+google-generativeai>=0.3.0
+python-dotenv>=1.0.1
+
+# Required Dependencies
+protobuf>=5.29.3
+pillow>=11.1.0
+pandas>=2.2.3
+numpy>=2.2.3
+lxml>=5.3.1
+
+# Runtime Support
+requests>=2.32.3
+urllib3>=2.3.0
+toml>=0.10.2
+click>=8.1.8
+tqdm>=4.67.1
+
+# Development/Testing (optional)
+altair>=5.5.0
+pydeck>=0.9.1
