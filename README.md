@@ -1,4 +1,4 @@
-# AI PPT Summarizer 🤖📊
+# AI PPT Summarizer 
 
 Automatically generates slide-by-slide explanations for PowerPoint presentations using Google's Gemini AI.
 
@@ -50,7 +50,7 @@ Includes explanations and study tips per slide
 
 
 Tech Stack
-AI Engine: Google Gemini Pro
+AI Engine: Google Gemini-1.5-Pro
 
 Frontend: Streamlit
 
