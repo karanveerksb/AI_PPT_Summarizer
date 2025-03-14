@@ -90,11 +90,13 @@ Use the chat assistant to ask questions about your slides and receive instant an
 
 ---
 
-## 📂 Project Structure
-
+## **Folder Structure**
+```
 AI_PPT_Summarizer/
 ├── app.py
 ├── assets/
 ├── requirements.txt
-├── .streamlit/
+├── .gitignore
 └── README.md
+
+```
